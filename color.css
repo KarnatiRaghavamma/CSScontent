@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+CO:wght@100..400&family=Playwrite+PL:wght@100..400&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+h1{
+    color:blue;
+    /* color,rgb,# code,hsl,hwb */
+    /* background-color:yellow; */
+    /* font property */
+    font-size:30px;
+    /* px,em,rem,1em=16px */
+    /* font weight */
+    font-family: "Playwrite CO", cursive;
+    font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+    /* bold,lighter,100...900 */
+    /* font style */
+    /* oblique,noemal,italic */
+    /* font family */
+}
+p{
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing:auto;
+  font-weight:weight;
+  font-style: normal;
+}
+.one{
+    background-color:blue;
+}
+.two{
+    color:aqua;
+}
+.three{
+    font-size:60px;
+}
+#four{
+    background-color:pink;
+}
+#five{
+    color: yellow;
+}
+/* id and class difference */
+.texty{
+    text-align:center;
+    text-shadow: 1px 2px 3px green;
+    text-decoration: underline overline line-through;
+    color:red;
+}
+.seven{
+    text-decoration: none;
+}
